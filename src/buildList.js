@@ -5,7 +5,7 @@ const testnet = require('./tokens/testnet.json');
 module.exports = function buildList() {
   const parsed = version.split('.');
   return {
-    'name': 'Uniswap Default List',
+    'name': 'Swoop Default List',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],
@@ -13,9 +13,9 @@ module.exports = function buildList() {
       'patch': +parsed[ 2 ]
     },
     'tags': {},
-    'logoURI': 'ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir',
+    'logoURI': 'https://swoop-assets.s3.amazonaws.com/swoop.png',
     'keywords': [
-      'uniswap',
+      'swoop',
       'default'
     ],
     tokens: [
