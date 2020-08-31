@@ -1,10 +1,2 @@
 [
-  {
-    "chainId": 2,
-    "address": "0x7198682C2Ba36E0823401189da82F4f9402d82c8",
-    "symbol": "WONE",
-    "name": "Wrapped ONE",
-    "decimals": 18,
-    "logoURI": "https://swoop-assets.s3.amazonaws.com/tokens/WONE.png"
-  }
 ]

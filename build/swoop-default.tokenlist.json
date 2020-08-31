@@ -1,6 +1,6 @@
 {
   "name": "Swoop Default List",
-  "timestamp": "2020-08-31T22:49:06.345Z",
+  "timestamp": "2020-08-31T22:49:39.691Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -28,14 +28,6 @@
       "name": "Seed",
       "decimals": 18,
       "logoURI": "https://swoop-assets.s3.amazonaws.com/tokens/SEED.png"
-    },
-    {
-      "chainId": 2,
-      "address": "0x7198682C2Ba36E0823401189da82F4f9402d82c8",
-      "symbol": "WONE",
-      "name": "Wrapped ONE",
-      "decimals": 18,
-      "logoURI": "https://swoop-assets.s3.amazonaws.com/tokens/WONE.png"
     }
   ]
 }
