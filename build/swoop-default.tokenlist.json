@@ -1,0 +1,33 @@
+{
+  "name": "Swoop Default List",
+  "timestamp": "2020-08-31T22:49:39.691Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://swoop-assets.s3.amazonaws.com/swoop.png",
+  "keywords": [
+    "swoop",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x7a791E76BF4d4f3b9B492AbB74E5108180bE6B5a",
+      "symbol": "1LINK",
+      "name": "1ChainLink",
+      "decimals": 18,
+      "logoURI": "https://swoop-assets.s3.amazonaws.com/tokens/1LINK.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x493c9d4362fB4FD1D0C17a6ECad08de33Fc1d8C2",
+      "symbol": "SEED",
+      "name": "Seed",
+      "decimals": 18,
+      "logoURI": "https://swoop-assets.s3.amazonaws.com/tokens/SEED.png"
+    }
+  ]
+}
