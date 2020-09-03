@@ -10,9 +10,25 @@
   {
     "chainId": 1,
     "address": "0x493c9d4362fB4FD1D0C17a6ECad08de33Fc1d8C2",
-    "symbol": "SEED",
-    "name": "Seed",
+    "symbol": "1SEED",
+    "name": "1Seed",
     "decimals": 18,
     "logoURI": "https://swoop-assets.s3.amazonaws.com/tokens/SEED.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcBb5B054EC45C69a25c818d6ce02a3c1b9ae6B46",
+    "symbol": "HBTC",
+    "name": "HBTC",
+    "decimals": 18,
+    "logoURI": "https://swoop-assets.s3.amazonaws.com/tokens/HBTC.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xCF1a7272439bEd258311d2034220B63e15d019B1",
+    "symbol": "HETC",
+    "name": "HETC",
+    "decimals": 18,
+    "logoURI": "https://swoop-assets.s3.amazonaws.com/tokens/HETC.png"
   }
 ]
