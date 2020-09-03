@@ -5,7 +5,7 @@
     "symbol": "1LINK",
     "name": "1ChainLink",
     "decimals": 18,
-    "logoURI": "https://swoop-assets.s3.amazonaws.com/tokens/1LINK.png"
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1LINK.png"
   },
   {
     "chainId": 1,
@@ -13,7 +13,7 @@
     "symbol": "1SEED",
     "name": "1Seed",
     "decimals": 18,
-    "logoURI": "https://swoop-assets.s3.amazonaws.com/tokens/SEED.png"
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1SEED.png"
   },
   {
     "chainId": 1,
@@ -21,14 +21,14 @@
     "symbol": "HBTC",
     "name": "HBTC",
     "decimals": 18,
-    "logoURI": "https://swoop-assets.s3.amazonaws.com/tokens/HBTC.png"
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/HBTC.png"
   },
   {
     "chainId": 1,
     "address": "0xCF1a7272439bEd258311d2034220B63e15d019B1",
-    "symbol": "HETC",
-    "name": "HETC",
+    "symbol": "HETH",
+    "name": "HETH",
     "decimals": 18,
-    "logoURI": "https://swoop-assets.s3.amazonaws.com/tokens/HETC.png"
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/HETH.png"
   }
 ]
