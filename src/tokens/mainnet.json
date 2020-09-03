@@ -26,9 +26,9 @@
   {
     "chainId": 1,
     "address": "0xCF1a7272439bEd258311d2034220B63e15d019B1",
-    "symbol": "HETC",
-    "name": "HETC",
+    "symbol": "HETH",
+    "name": "HETH",
     "decimals": 18,
-    "logoURI": "https://swoop-assets.s3.amazonaws.com/tokens/HETC.png"
+    "logoURI": "https://swoop-assets.s3.amazonaws.com/tokens/HETH.png"
   }
 ]
