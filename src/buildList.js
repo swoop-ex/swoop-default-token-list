@@ -13,7 +13,7 @@ module.exports = function buildList() {
       'patch': +parsed[ 2 ]
     },
     'tags': {},
-    'logoURI': 'https://swoop-assets.s3.amazonaws.com/swoop.png',
+    'logoURI': 'https://swoop-exchange.s3-us-west-1.amazonaws.com/swoop.png',
     'keywords': [
       'swoop',
       'default'
