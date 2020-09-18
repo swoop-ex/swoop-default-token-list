@@ -1,10 +1,10 @@
 {
   "name": "Swoop Default List",
-  "timestamp": "2020-09-03T21:07:11.647Z",
+  "timestamp": "2020-09-18T21:37:03.348Z",
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   },
   "tags": {},
   "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/swoop.png",
@@ -15,35 +15,83 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7a791E76BF4d4f3b9B492AbB74E5108180bE6B5a",
+      "address": "0xd4da8c97f0a9133d52e469548a3dbe75defb182d",
+      "symbol": "1BTC",
+      "name": "OneBTC",
+      "decimals": 18,
+      "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1BTC.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x19c65f26beee949c57d617dde51582e3f62ced67",
+      "symbol": "1BUSD",
+      "name": "OneBUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xec5806984d2a46124b2545250f5de4f2452e10b8",
+      "symbol": "1ETH",
+      "name": "OneETH",
+      "decimals": 18,
+      "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1ETH.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x29cf7ac26f5ed55b9a2821a29796a7cdc64a063d",
       "symbol": "1LINK",
-      "name": "1ChainLink",
+      "name": "OneChainlink",
       "decimals": 18,
       "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1LINK.png"
     },
     {
       "chainId": 1,
-      "address": "0x493c9d4362fB4FD1D0C17a6ECad08de33Fc1d8C2",
+      "address": "0xea0b36974872dbafd3766a38b40fa1e2d2881eff",
       "symbol": "1SEED",
-      "name": "1Seed",
+      "name": "OneSeed",
       "decimals": 18,
       "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1SEED.png"
     },
     {
-      "chainId": 1,
-      "address": "0xcBb5B054EC45C69a25c818d6ce02a3c1b9ae6B46",
-      "symbol": "HBTC",
-      "name": "HBTC",
+      "chainId": 2,
+      "address": "0xd1d61befb4d89a370992f00776444e4b5bba58f5",
+      "symbol": "1BTC",
+      "name": "OneBTC",
       "decimals": 18,
-      "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/HBTC.png"
+      "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1BTC.png"
     },
     {
-      "chainId": 1,
-      "address": "0xCF1a7272439bEd258311d2034220B63e15d019B1",
-      "symbol": "HETH",
-      "name": "HETH",
+      "chainId": 2,
+      "address": "0x4ca9b6c9b9136230ced960d86f20da0cb57de525",
+      "symbol": "1BUSD",
+      "name": "OneBUSD",
       "decimals": 18,
-      "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/HETH.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+    },
+    {
+      "chainId": 2,
+      "address": "0x9740dfd28f028007eb3148cfe8427fde719f8496",
+      "symbol": "1ETH",
+      "name": "OneETH",
+      "decimals": 18,
+      "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1ETH.png"
+    },
+    {
+      "chainId": 2,
+      "address": "0x2c87f9d953e8f299488b3a22541b041b5ea8da6a",
+      "symbol": "1LINK",
+      "name": "OneChainlink",
+      "decimals": 18,
+      "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1LINK.png"
+    },
+    {
+      "chainId": 2,
+      "address": "0x39328d607772e91a4beb889e88db2bda7c3159e4",
+      "symbol": "1SEED",
+      "name": "OneSeed",
+      "decimals": 18,
+      "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1SEED.png"
     }
   ]
 }
