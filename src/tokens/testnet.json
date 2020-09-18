@@ -1,2 +1,42 @@
 [
+  {
+    "chainId": 2,
+    "address": "0x4ca9b6c9b9136230ced960d86f20da0cb57de525",
+    "symbol": "1BUSD",
+    "name": "OneBUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+  },
+  {
+    "chainId": 2,
+    "address": "0xd1d61befb4d89a370992f00776444e4b5bba58f5",
+    "symbol": "1BTC",
+    "name": "OneBTC",
+    "decimals": 18,
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1BTC.png"
+  },
+  {
+    "chainId": 2,
+    "address": "0x9740dfd28f028007eb3148cfe8427fde719f8496",
+    "symbol": "1ETH",
+    "name": "OneETH",
+    "decimals": 18,
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1ETH.png"
+  },
+  {
+    "chainId": 2,
+    "address": "0x2c87f9d953e8f299488b3a22541b041b5ea8da6a",
+    "symbol": "1LINK",
+    "name": "OneChainlink",
+    "decimals": 18,
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1LINK.png"
+  },
+  {
+    "chainId": 2,
+    "address": "0x39328d607772e91a4beb889e88db2bda7c3159e4",
+    "symbol": "1SEED",
+    "name": "OneSeed",
+    "decimals": 18,
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1SEED.png"
+  }
 ]
