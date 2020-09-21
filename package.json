@@ -1,12 +1,12 @@
 {
   "name": "@harmony-swoop/default-token-list",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "◦ The Swoop default token list",
   "main": "build/swoop-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
     "build": "rimraf build && mkdir -p build && node src/write.js > build/swoop-default.tokenlist.json",
-    "prepublishOnly": "npm test && npm run build"
+    "prepublishOnly": "yarn test && yarn build"
   },
   "files": [
     "build/swoop-default.tokenlist.json"
