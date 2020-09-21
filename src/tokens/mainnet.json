@@ -1,7 +1,7 @@
 [
   {
     "chainId": 1,
-    "address": "0x19c65f26beee949c57d617dde51582e3f62ced67",
+    "address": "0x19c65f26bEee949c57D617DdE51582e3f62Ced67",
     "symbol": "1BUSD",
     "name": "OneBUSD",
     "decimals": 18,
@@ -9,7 +9,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xd4da8c97f0a9133d52e469548a3dbe75defb182d",
+    "address": "0xD4Da8C97f0A9133D52E469548A3DBE75deFb182d",
     "symbol": "1BTC",
     "name": "OneBTC",
     "decimals": 18,
@@ -17,7 +17,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xec5806984d2a46124b2545250f5de4f2452e10b8",
+    "address": "0xEC5806984d2a46124B2545250f5De4F2452E10b8",
     "symbol": "1ETH",
     "name": "OneETH",
     "decimals": 18,
@@ -25,7 +25,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x29cf7ac26f5ed55b9a2821a29796a7cdc64a063d",
+    "address": "0x29CF7Ac26F5eD55B9a2821A29796A7cdc64A063D",
     "symbol": "1LINK",
     "name": "OneChainlink",
     "decimals": 18,
@@ -33,7 +33,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xea0b36974872dbafd3766a38b40fa1e2d2881eff",
+    "address": "0xEa0b36974872dbaFd3766A38b40fa1E2D2881eFf",
     "symbol": "1SEED",
     "name": "OneSeed",
     "decimals": 18,
