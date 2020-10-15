@@ -1,6 +1,14 @@
 [
   {
     "chainId": 2,
+    "address": "0x595dFbE0dCD9711959c4d47D02bc77F18527E010",
+    "symbol": "WONE",
+    "name": "Wrapped ONE",
+    "decimals": 18,
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/WONE.png"
+  },
+  {
+    "chainId": 2,
     "address": "0x4CA9B6C9B9136230CEd960d86F20dA0Cb57De525",
     "symbol": "1BUSD",
     "name": "OneBUSD",
