@@ -1,5 +1,5 @@
 {
-  "name": "@harmony-swoop/default-token-list",
+  "name": "@swoop-exchange/default-token-list",
   "version": "1.0.0",
   "description": "◦ The Swoop default token list",
   "main": "build/swoop-default.tokenlist.json",
@@ -24,7 +24,7 @@
   "homepage": "https://github.com/harmony-one/swoop-default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
-    "@uniswap/token-lists": "^1.0.0-beta.8",
+    "@uniswap/token-lists": "^1.0.0-beta.17",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
