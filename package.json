@@ -3,11 +3,6 @@
   "version": "1.2.0",
   "description": "◦ The Swoop default token list",
   "main": "build/swoop-default.tokenlist.json",
-  "scripts": {
-    "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/swoop-default.tokenlist.json",
-    "prepublishOnly": "yarn test && yarn build"
-  },
   "files": [
     "build/swoop-default.tokenlist.json"
   ],
@@ -34,5 +29,10 @@
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
     "rimraf": "^3.0.2"
+  },
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/swoop-default.tokenlist.json",
+    "prepublishOnly": "yarn test && yarn build"
   }
 }

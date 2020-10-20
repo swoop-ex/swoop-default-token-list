@@ -1,7 +1,7 @@
 [
   {
     "chainId": 2,
-    "address": "0xa772D488bc4F66d84bC675B168528673896eAA85",
+    "address": "0x7466d7d0C21Fa05F32F5a0Fa27e12bdC06348Ce2",
     "symbol": "WONE",
     "name": "Wrapped ONE",
     "decimals": 18,
@@ -9,7 +9,7 @@
   },
   {
     "chainId": 2,
-    "address": "0x548AA826026Fbebc614ed44d4Bb201C98a730ecE",
+    "address": "0x0E80905676226159cC3FF62B1876C907C91F7395",
     "symbol": "1BUSD",
     "name": "OneBUSD",
     "decimals": 18,
@@ -17,7 +17,7 @@
   },
   {
     "chainId": 2,
-    "address": "0x8500Dd7296E08acAA4A4E1b3798F4edf2f8C4989",
+    "address": "0xcA65E483e885BbECF8FBc3856593E66577e06bC2",
     "symbol": "1BTC",
     "name": "OneBTC",
     "decimals": 18,
@@ -25,7 +25,7 @@
   },
   {
     "chainId": 2,
-    "address": "0xC7842BF5692cE2d3e2BCb5D37Fda1B7C427459F8",
+    "address": "0x1E120B3b4aF96e7F394ECAF84375b1C661830013",
     "symbol": "1ETH",
     "name": "OneETH",
     "decimals": 18,
@@ -33,7 +33,7 @@
   },
   {
     "chainId": 2,
-    "address": "0x30fF1eAAD316413DC74ADB3a6c3963bB239F140a",
+    "address": "0x2C6e26B2faD89bc52d043e78E3D980A08af0Ce88",
     "symbol": "1LINK",
     "name": "OneChainlink",
     "decimals": 18,
@@ -41,7 +41,7 @@
   },
   {
     "chainId": 2,
-    "address": "0x89175f245b87Ba646B1CEEB1e51BdFec3d0f193D",
+    "address": "0x6689F57AD16c374783585ba2C77F5316789886F2",
     "symbol": "1SEED",
     "name": "OneSeed",
     "decimals": 18,
