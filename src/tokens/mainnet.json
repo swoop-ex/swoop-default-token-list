@@ -17,6 +17,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0aB43550A6915F9f67d0c454C2E90385E6497EaA",
+    "symbol": "bscBUSD",
+    "name": "BEP20 Binance USD bridged from BSC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
     "symbol": "1WBTC",
     "name": "Wrapped BTC",
